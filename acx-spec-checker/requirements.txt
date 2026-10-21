@@ -1,0 +1,2 @@
+numpy>=1.26
+# System requirements (not pip-installable): ffmpeg and ffprobe on PATH.
